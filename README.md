@@ -3,6 +3,8 @@
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cfbastarz&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cfbastarz&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cfbastarz&theme=2077)
+
 
 
 <!--
