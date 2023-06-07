@@ -1,5 +1,8 @@
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfbastarz&count_private=true&show_icons=true&theme=default)
+-->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cfbastarz&theme=2077)
 
 
 <!--
