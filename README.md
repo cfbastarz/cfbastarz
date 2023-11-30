@@ -24,5 +24,5 @@
 - 😄 Pronouns: they do exist.
 - ⚡ Fun fact: the Earth is not flat.
 
-![](https://komarev.com/ghpvc/?username=cfbastarz&label=VISITOR+COUNTER)
+![](https://komarev.com/ghpvc/?username=cfbastarz&label=PROFILE+VIEWS)
 
